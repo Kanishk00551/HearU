@@ -102,6 +102,3 @@ Notes
 ## Vision
 To break the stigma around mental health for Indian youth by creating an accessible, AI-powered safe space that offers support, guidance, and community-driven healing.
 
-## Team
-- **The Aesthetic Devs**
-- Built for Hackathon: **Gen AI Exchange Hackathon**
